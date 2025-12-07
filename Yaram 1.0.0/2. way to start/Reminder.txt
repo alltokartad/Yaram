@@ -1,0 +1,10 @@
+The application is currently in alpha, which means it is in the early stages of development and may contain bugs or incomplete features. Please keep this in mind while using it.
+
+This version, Version 1.0.0, is designed to run on a Browser environment, allowing easy access and testing.
+
+Credits: Alltokartad – thank you for your contributions and support in making this project possible.
+
+Created with: GitHub AI and Visual Studio Code, combining modern development tools and AI assistance to streamline the coding process.
+
+Your feedback is valuable, as this alpha stage is meant for testing, improving, and refining the software before it moves to beta and beyond.
+Contact me on gmail: alltokartadboyy@gmail.com

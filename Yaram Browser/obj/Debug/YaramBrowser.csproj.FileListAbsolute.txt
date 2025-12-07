@@ -1,0 +1,8 @@
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\YaramBrowser.csproj.AssemblyReference.cache
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\Yaram Browser.exe.config
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\YaramBrowser.Form1.resources
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\Yaram_Browser.Properties.Resources.resources
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\YaramBrowser.csproj.GenerateResource.cache
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\YaramBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\Yaram Browser.exe
+C:\Users\Melinda\source\repos\Yaram Browser\obj\Debug\Yaram Browser.pdb
